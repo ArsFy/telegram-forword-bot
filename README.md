@@ -21,7 +21,7 @@ npm i
 {
     "bot_token": "123456:AgAEGesgAEG5e475segG4",   // @BotFather Token
     "admin_id": [ 1000000000 ],                    // User ID (Number)
-    "channel_id": -100000000                       // Channel ID or Public name (String) 
+    "channel_id": -100000000                       // Channel ID (Number)
 }
 ```
 
